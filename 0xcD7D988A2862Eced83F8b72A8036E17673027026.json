@@ -98,7 +98,7 @@
     "etherBalance": 0,
     "etherBlockNumber": 0,
     "usdbcBalance": 0,
-    "usdtBalance": 10021.091444,
+    "usdtBalance": 10022.091444,
     "airdropBalance": 10021091.444,
     "airdropBalanceWei": {
       "$numberDecimal": "1.0021091444E+25"
